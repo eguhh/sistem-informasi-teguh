@@ -1,0 +1,4 @@
+# Hasil pengujian otomatis (dihasilkan oleh tests/e2e.test.js)
+tests/screenshots/
+node_modules/
+package-lock.json
